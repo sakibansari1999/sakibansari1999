@@ -32,7 +32,7 @@ I'm a **Frontend Developer** with 4 years of experience building dynamic, user-f
 ## 📊 GitHub Stats
 
 ![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibansari1999&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibansari1999&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibansari1999&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ## 📬 Connect with Me
 

@@ -17,6 +17,9 @@ I'm a **Frontend Developer** with 4 years of experience building dynamic, user-f
 
 ## 🔥 Featured Projects
 
+### [How When Wear](https://howwhenwear.com/)
+> A custom-built eCommerce website for a fashiion, Clothing Razorpay payment integration.
+
 ### [Miche Artisan Bakery](https://micheartisanbakery.com/)
 > A custom-built eCommerce website for a bakery, featuring Razorpay payment integration.
 
@@ -28,7 +31,7 @@ I'm a **Frontend Developer** with 4 years of experience building dynamic, user-f
 
 ## 📊 GitHub Stats
 
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibansari1999&show_icons=true&theme=radical&count_private=true)
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibansari1999&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibansari1999&layout=compact&theme=radical&count_private=true)
 
 ## 📬 Connect with Me

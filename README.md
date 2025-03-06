@@ -18,10 +18,10 @@ I'm a **Frontend Developer** with 4 years of experience building dynamic, user-f
 ## 🔥 Featured Projects
 
 ### [How When Wear](https://howwhenwear.com/)
-> A custom-built eCommerce website for a fashiion, Clothing Razorpay payment integration.
+> A custom-built eCommerce website in Next.js for a fashionable Womens Clothes.
 
 ### [Miche Artisan Bakery](https://micheartisanbakery.com/)
-> A custom-built eCommerce website for a bakery, featuring Razorpay payment integration.
+> A custom-built eCommerce website in Next.js for a bakery, featuring Razorpay payment integration.
 
 ### [We Are Enigma](https://weareenigma.com/)
 > A dynamic website built for a creative agency, developed with Next.js and WordPress.

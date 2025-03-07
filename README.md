@@ -1,6 +1,6 @@
 ### Hi there, I'm Sakib Ansari! 👋
 
-I'm a **Frontend Developer** with 4 years of experience building dynamic, user-friendly web applications. Passionate about crafting intuitive UI/UX, optimizing performance, and staying updated with modern web technologies.
+I'm a **Frontend Developer** with 3.5 years of experience building dynamic, user-friendly web applications. Passionate about crafting intuitive UI/UX, optimizing performance, and staying updated with modern web technologies.
 
 ## 🚀 Tech Stack
 

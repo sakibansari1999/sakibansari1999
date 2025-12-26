@@ -1,43 +1,94 @@
-### Hi there, I'm Sakib Ansari! 👋
+# 👋 Hi, I'm Sakib Ansari
 
-I'm a **Frontend Developer** with 3.5 years of experience building dynamic, user-friendly web applications. Passionate about crafting intuitive UI/UX, optimizing performance, and staying updated with modern web technologies.
+Frontend Developer with **3.5+ years of experience** building fast, scalable, and user-friendly web applications.  
+I specialize in **Next.js, React, and modern frontend architecture**, with strong experience in **eCommerce, performance optimization, and UI engineering**.
 
-## 🚀 Tech Stack
+I enjoy turning designs into high-quality products and solving real business problems with clean, maintainable code.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=api&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+---
 
-## 🔥 Featured Projects
+## 🧑‍💻 About Me
 
-### [How When Wear](https://howwhenwear.com/)
-> A custom-built eCommerce website in Next.js for a fashionable Womens Clothes.
+- ⚛️ Frontend Developer focused on **React & Next.js**
+- 🛒 Strong experience with **eCommerce (WooCommerce + Headless Next.js)**
+- 🚀 Performance-driven (Core Web Vitals, Lighthouse optimization)
+- 🎯 Clean UI, accessibility, and scalable component architecture
+- 🧠 Currently strengthening **JavaScript fundamentals & DOM mastery**
 
-### [Miche Artisan Bakery](https://micheartisanbakery.com/)
-> A custom-built eCommerce website in Next.js for a bakery, featuring Razorpay payment integration.
+---
 
-### [We Are Enigma](https://weareenigma.com/)
-> A dynamic website built for a creative agency, developed with Next.js and WordPress.
+## 🛠 Tech Stack
 
-### [Haze App](https://haze-app.vercel.app/)
-> A modern app built using Next.js, focusing on performance and scalability.
+**Languages**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+**Frameworks & Libraries**
+- React.js, Next.js
+- Tailwind CSS, CSS Modules
+
+**CMS & eCommerce**
+- WordPress (Headless)
+- WooCommerce
+
+**Other**
+- REST APIs
+- Git & GitHub
+- Performance Optimization
+- Responsive & Accessible UI
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 How When Wear  
+🌐 https://howwhenwear.com  
+**Tech:** Next.js, WooCommerce, Tailwind CSS  
+- Headless eCommerce frontend
+- Optimized product pages & checkout UX
+- SEO & performance-focused architecture
+
+---
+
+### 🔹 Miche Artisan Bakery  
+🌐 https://micheartisanbakery.com  
+**Tech:** Next.js, WooCommerce, Razorpay  
+- Custom eCommerce solution
+- Razorpay payment integration
+- Improved performance & conversion flow
+
+---
+
+### 🔹 We Are Enigma  
+🌐 https://weareenigma.com  
+**Tech:** Next.js, WordPress (Headless)  
+- Dynamic CMS-driven website
+- Fully manageable content from backend
+- Clean UI with scalable components
+
+---
+
+### 🔹 Haze App  
+🌐 https://haze-app.vercel.app  
+**Tech:** Next.js  
+- Performance-first frontend
+- Modern UI patterns
+- Optimized routing & rendering
+
+---
 
 ## 📊 GitHub Stats
 
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibansari1999&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibansari1999&layout=compact&theme=radical&count_private=true&token=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)
+![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibansari1999&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibansari1999&layout=compact&theme=tokyonight)
 
-## 📬 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakibansari/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sakib-ansari.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saquibansari556@gmail.com)
+## 📬 Connect With Me
 
-💡 **Let's collaborate and build something amazing together!** 🚀
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sakibansari  
+- 🌐 **Portfolio:** https://sakib-ansari.vercel.app  
+- 📧 **Email:** saquibansari556@gmail.com  
+
+---
+
+⭐ _Always open to collaboration, frontend challenges, and impactful products._
